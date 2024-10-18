@@ -29,6 +29,7 @@
 3. 扫一扫加我微信好友吧，请备注 失物招领小程序源码获取
 <img src="./preview/wx.jpg" style="width: 200px;padding-left:2em">
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 
 
 
